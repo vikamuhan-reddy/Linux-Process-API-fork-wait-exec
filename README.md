@@ -78,7 +78,8 @@ int main() {
 ```
 
 ## OUTPUT
-![alt text](<WhatsApp Image 2024-03-29 at 14.11.53_64bbbc34.jpg>)
+![image](https://github.com/Mkumar262006/Linux-Process-API-fork-wait-exec/assets/144928933/7abaf968-64bc-4960-841c-0e8779574fa9)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
